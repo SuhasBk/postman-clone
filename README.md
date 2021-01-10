@@ -1,6 +1,12 @@
 # PostmanClone
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
+A simple webapp that performs HTTP requests with the help of Python's "requests" module as proxy at the backend to execute the API calls. Can be used to test local REST APIs.
+
+Features:
+1) Select from 4 HTTP requests: GET, POST, PUT, DELETE.
+2) Specify request headers with upto 6 items in JSON format.
+3) Specify body in customizable JSON format with visible changes.
+4) Get response in both JSON and text/html view.
 
 ## Development server
 
